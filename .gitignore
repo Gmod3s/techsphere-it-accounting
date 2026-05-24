@@ -1,0 +1,21 @@
+# Виртуальное окружение Python
+venv/
+.env
+ENV/
+env/
+
+# Кэш Python и байт-код
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Настройки среды разработки (PyCharm, VS Code)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+
+# Конфиденциальные данные и базы данных
+*.log
+local_settings.py
